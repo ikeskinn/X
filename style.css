@@ -1,0 +1,292 @@
+#container{
+width:960px;
+height:1000px;
+background-color:#cbcbcb;
+margin:0 auto;
+}
+#ustBanner{
+width:750px;
+height:52px;
+background-color:black;
+float:right;
+margin-top:0px;
+}
+#banner{
+width:157px;
+height:66px;
+}
+#logo{
+width:157px;
+height:66px;
+margin-top:21px;
+margin-left:25px;
+}
+#ustBanner ul{
+		  padding-top:2px;
+}
+#ustBanner li{
+		  display:inline;
+		  color:#fff;
+		  font-size:19px;
+		  padding-left:65px;
+		  border-right:2px solid white;
+		  padding-right:45px;
+		  font-size: 16px;
+          font-weight: bold;
+		  text-decoration: none;
+		  float: left !important;
+		  
+}
+#solkolon{
+width:675px;
+height:885px;
+float:left;
+}
+#tatoo{
+width:550px;
+height:350px;
+margin-left:75px;
+margin-top:45px;
+}
+#haber{
+width:550px;
+height:25px;
+background-color:black;
+margin-left:75px;
+margin-top:-5px;
+}
+#menu{
+width:550px;
+height:45px;
+background-color:black;
+margin-left:75px;
+margin-top:-18px;
+}
+#menu ul{
+		  padding-top:8px;
+		  list-style-type: none;
+          text-align: center;
+          margin: 0;
+          padding:0;
+}
+#menu li{
+		  
+		  display:inline;
+		  color:#fff;
+		  font-size:19px;
+          float: left !important;
+		  line-height: 30px;
+		  margin: 0;
+		  padding: 0 12px;
+		  height: 30px;
+		  text-decoration: none;
+		  padding-left:22px;
+		  padding-top:8px;
+		  font-size: 16px;
+          font-weight: bold;
+          border-left: 1px solid #846565;
+}
+#yazi{
+		  font-size: 20px;
+		  font-weight: bold;
+		  color:white;
+		  padding-left:20px;
+		  font-family:arial black;
+}
+#tumdiziler{
+width:640px;
+height:350px;
+margin-left:35px;
+margin-top:0px;
+}
+#sagkolon{
+width:285px;
+height:885px;
+float:right;
+float: right;
+}
+#shameless{
+width:120px;
+height:120px;
+padding-top:45px;
+}
+#shamelessdiv{
+width:155px;
+height:100px;
+float:right;
+padding-top:55px;
+}
+#shayazi{
+		  font-size: 22px;
+		  color:#442121;
+		  font-family:impact;
+}
+#vikings{
+width:120px;
+height:120px;
+padding-top:35px;
+}
+#vikingsdiv{
+width:155px;
+height:100px;
+float:right;
+padding-top:50px;
+}
+#vikyazi{
+		  font-size: 25px;
+		  color:#442121;
+		  font-family:impact;
+}
+#mrrobotdiv{
+width:155px;
+height:100px;
+float:right;
+padding-top:68px;
+}
+#mryazi{
+		  font-size: 22px;
+		  color:#442121;
+		  font-family:impact;
+}
+#mrrobot{
+width:120px;
+height:120px;
+padding-top:38px;
+}
+#dizitakvimi{
+width:285px;
+height:50px;
+background-color:#191c26;
+margin-top:22.4px;
+}
+#dizitak{
+font-size: 32px;
+color:#515b6e;
+font-family:impact;
+float:right;
+padding-top:4px;
+}
+#takjpg{
+width:32px;
+height:32px;
+padding-left:15px;
+padding-top:5px;
+}
+#bil{
+width:90px;
+height:65px;
+padding-left:5px;
+padding-top:5px;
+}	
+#bildiv{
+width:190px;
+height:50px;
+float:right;
+padding-top:20px;
+}
+#bilyazi{
+font-size: 20px;
+color:#191c26;
+font-family:impact;
+padding-left:10px;
+}
+#cizgi{
+width:285px;
+height:5px;
+background-color:#191c26;
+}
+#ele{
+width:90px;
+height:65px;
+padding-top:5px;
+padding-left:5px;
+}	
+#elediv{
+width:190px;
+height:50px;
+float:right;
+padding-top:20px;
+}
+#eleyazi{
+font-size: 20px;
+color:#191c26;
+font-family:impact;
+padding-left:10px;
+}
+#feud{
+width:90px;
+height:65px;
+padding-top:5px;
+padding-left:5px;
+}
+#girls{
+width:90px;
+height:65px;
+padding-top:5px;
+padding-left:5px;
+}
+#hata{
+width:640px;
+height:19px;
+background-color:#191c26;
+float:right;
+margin-top:32px;
+}
+#search {
+		 float:right;
+         right: 20px;
+         top: 34px;}
+
+#search input.text {margin-right: 5px;
+                    vertical-align: middle;
+                    border: 2px outset #334755;
+                    padding: 0.25em;
+                    width: 135px;
+                    background-color: #E7EAEB;
+                    color: #334755;}
+
+#search input.submit
+ 
+{background: #829099 url(images/menu_background.jpg) bottom left repeat-x;
+ color: #334755;
+ border: 2px outset #334755;
+ vertical-align: middle;
+ font-weight: bold;
+ padding: 0.4em;
+ font-size: 0.8em;}
+#ucgendiv{
+margin-top:-15px;
+}
+ #ucgen{
+margin-left:223px;
+ }
+ #footer {width: 960px;
+		 height:25px;
+         clear: both;
+         margin: 0 5px;
+         font-size: 15px;
+         text-align: center;
+		 padding-top:0.0px;
+         }
+#footer p {padding: 5px 0;}
+#footeryazi{
+font-size: 15px;
+font-weight: bold;
+color:#191c26;
+font-family:arial;
+padding-left:10px;
+}	
+#logolar{
+width:285px;
+height:25px;
+float:right;}
+#fb{
+width:28px;
+height:25px;
+
+
+}
+#tw{
+width:28px;
+height:25px;
+margin-left:20px;
